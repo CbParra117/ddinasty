@@ -1,0 +1,15 @@
+pytz==2018.7
+Pillow
+Django
+gunicorn==20.0.4
+whitenoise
+mysqlclient
+django-filter
+django-anymail
+django-ckeditor
+django-imagekit
+django-cors-headers
+djangorestframework
+django-import-export
+django-admin-interface
+djangorestframework_simplejwt
